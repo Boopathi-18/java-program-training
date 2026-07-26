@@ -19,7 +19,7 @@ class bank{
         return balance;
     }
         }
-    public class ATM {
+    public class Atm {
         public static void main(String[] args){
             Scanner s=new Scanner(System.in);
             try{
