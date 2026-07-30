@@ -1,0 +1,1 @@
+         System.out.println("Last index: "+(num.size()-1));
