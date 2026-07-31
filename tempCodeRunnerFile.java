@@ -1,1 +1,1 @@
-         System.out.println("Last index: "+(num.size()-1));
+System.out.println("poll: "+num.poll());
