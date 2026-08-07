@@ -1,1 +1,1 @@
-System.out.println("poll: "+num.poll());
+sorttwonumbers
