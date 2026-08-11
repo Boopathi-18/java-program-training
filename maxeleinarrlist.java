@@ -13,12 +13,13 @@ public class maxeleinarrlist {
         //         max=n;
         //     }
         //  }
-         System.out.println("Array: "+num);
-        //  System.out.println("Max: "+max);
-        System.out.println("Poll: " + num.poll());
-        //  System.out.println("Max: "+max);
-        }
+        //  System.out.println("Array: "+num);
+        // //  System.out.println("Max: "+max);
+        // System.out.println("Poll: " + num.poll());
+        // //  System.out.println("Max: "+max);
+        // }
     }
+}
 //          ArrayList <Integer>num=new ArrayList<>();
 //          num.add(12);
 //          num.add(45);
