@@ -1,12 +1,19 @@
+import java.util.*;
+
 public class bot {
     public static void main(String[] args) {
-        String name = "Java";
+        Scanner sc = new Scanner(System.in);
 
-        if (name.equals("Java")){
-            System.out.println("Same");
-        }
-        else{
-            System.out.println("Different");
-        }
+        System.out.print("Enter first number: ");
+        int a = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        int b = sc.nextInt();
+
+        int sum = a + b;
+
+        System.out.println("Sum = " + sum);
+
+        sc.close();
     }
 }
